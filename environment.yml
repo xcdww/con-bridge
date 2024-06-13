@@ -1,9 +1,0 @@
-name: con-bridge-new
-channels:
-  - defaults
-dependencies:
-  - python=3.11.4
-  - streamlit
-  - streamlit-antd-components
-  - importlib-metadata<7,>=1.4
-  - pillow<10,>=6.2.0
